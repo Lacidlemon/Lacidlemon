@@ -11,35 +11,33 @@ Split-screen character sheet composition, left side a full-body shot of the char
 upright in a neutral straight standing pose facing the camera with both feet flat on the ground
 and arms relaxed at the sides, full head-to-toe framing with the whole body and both feet
 visible, right side a tight close-up chest-up portrait of the same character, identical original
-female character named Lola on both sides, single subject only exactly one person with only the
-character in frame, pure white seamless studio background, professional character sheet
-presentation, very attractive adult goth woman aged 25 with fair porcelain skin, oval face with
-defined jawline and high defined cheekbones, mature adult bone structure, small straight nose,
-full lips with deep black-cherry matte lipstick and a subtle confident smirk, bright blue-green
-almond eyes with long lashes, smoky black winged eyeliner and dark smudged eyeshadow, naturally
-muted catchlights and no artificial glare, sharp dark-brown arched brows, long voluminous
-platinum-blonde hair with subtle darker roots, loose glossy waves past the shoulders with blunt
-wispy bangs, small silver septum ring, visible fine skin texture with natural pores, a few faint
-freckles across the nose, slight natural sheen rather than glossy retouched finish, no digital
-smoothing, no beauty filter, no AI-airbrushed look, slim toned feminine hourglass figure with
-medium-size bust, defined waist and long legs, about 5'7", balanced proportions, wearing a fitted
-black lace-trimmed long-sleeve mesh crop top, black high-waisted pleated mini skirt with silver
-chain detail, black sheer tights with a small ladder, black leather studded belt with silver
-O-ring, chunky black platform lace-up combat boots, black velvet choker with small silver
-crescent-moon pendant, layered silver chain necklaces, silver rings on several fingers, small
-silver hoop earrings, black nail polish, no bag, natural anatomy, high-end but unretouched
-alternative fashion influencer photography style, soft diffused studio lighting without harsh
-reflections, cinematic realism, 4K quality, sharp focus
+female character named Lola on both sides, single subject only exactly one person, pure white
+seamless studio background, professional character sheet presentation, beautiful adult goth
+woman aged 25 with fair porcelain skin, oval face with defined jawline and high cheekbones,
+mature adult features, small straight nose, full lips with deep black-cherry matte lipstick and
+a subtle confident smirk, bright blue-green almond eyes, smoky black winged eyeliner and dark
+smudged eyeshadow, naturally muted catchlights, dark-brown arched brows, long platinum-blonde
+hair with subtle darker roots, loose waves past the shoulders with wispy bangs, small silver
+septum ring, visible fine skin texture with natural pores, a few faint freckles across the nose,
+no beauty filter, slim athletic build with average proportions, about 5'7", wearing a black
+long-sleeve fitted top with lace trim at the collar and cuffs, black high-waisted pleated
+knee-length skirt with silver chain detail, opaque black tights, black leather studded belt with
+silver O-ring, chunky black platform lace-up combat boots, black velvet choker with small silver
+crescent-moon pendant, layered silver chain necklaces, silver rings, small silver hoop earrings,
+black nail polish, no bag, natural anatomy, alternative fashion lookbook photography, soft
+diffused studio lighting, cinematic realism, 4K quality, sharp focus, fully clothed
 ```
 
 ## Negative prompt
 
 ```
-no other people, no duplicate figures, no mannequin, no props, no furniture, no background
-objects, left panel standing full-body head-to-toe not cropped not sitting, right panel tight
-close-up not full body, no babyface, no plastic skin, no text, no watermark, no logos, no frame
-borders, original character not resembling any real celebrity
+no other people, no props, no furniture, left panel standing full-body head-to-toe not cropped,
+right panel tight close-up, no text, no watermark, no logos, original character not resembling
+any real celebrity
 ```
+
+> Note: on Higgsfield (gpt_image_2_5) the filter blocked earlier versions that mentioned
+> bust size, mesh/sheer fabrics and a mini skirt. This wording passes.
 
 ## Character profile
 
@@ -51,8 +49,8 @@ borders, original character not resembling any real celebrity
 | Hair | Long platinum blonde, darker roots, loose waves, wispy bangs |
 | Eyes | Blue-green, smoky black winged liner |
 | Skin | Fair porcelain, faint freckles |
-| Build | Slim, toned hourglass, medium bust, ~5'7" |
-| Signature style | All-black lace, mesh and leather, platform boots, velvet choker, silver jewelry |
+| Build | Slim, toned, ~5'7" |
+| Signature style | All-black lace and leather, platform boots, velvet choker, silver jewelry |
 | Makeup | Black-cherry matte lip, smudged dark shadow, black nails |
 | Vibe | Moody, confident, a little playful |
 | Content | Goth outfit try-ons, makeup tutorials, thrift hauls, cemetery/cathedral shoots, concerts, dark cafés |
