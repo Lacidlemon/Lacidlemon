@@ -1,80 +1,92 @@
-# Lola — Niche Locations (Goth / Alt-Fashion)
+# Lola — Everyday Locations (Realistic)
 
-Empty location plates for Lola's content. Generate each once, then reuse the same plate
-as a background reference so her feed looks like a consistent world.
+Empty, realistic "phone photo" backgrounds for Lola's home-based content. The goal is
+believable, lived-in rooms — not cinematic sets. Goth personality shows only in small
+details (black bedding, black clothes, eyeliner on the counter).
 
 Settings used on Higgsfield: `gpt_image_2_5`, aspect `4:5`, quality `high`, resolution `2k`.
 
+## Realism rules (reuse in every prompt)
+
+- Start with `Amateur iPhone photo of a real ...`
+- Add `ordinary everyday lived-in look, realistic colors, slight phone camera noise,
+  not staged, not cinematic`
+- Include small mess/clutter (crooked bath mat, clothes on a chair, dishes in sink)
+- Normal lighting: window daylight or plain overhead/vanity bulbs — no candles, fog, neon
+- Avoid words like cinematic, dramatic, moody, epic, 8k, editorial
+
 | # | Location | Content ideas |
 |---|---|---|
-| 1 | Victorian cemetery at dusk | OOTD, moody portraits, Halloween, poetry captions |
-| 2 | Gothic cathedral interior | Dramatic full-body looks, "main character" reels |
-| 3 | Goth café | Coffee dates, reading, GRWM chat, "a day with me" |
-| 4 | Goth bedroom | Makeup tutorials, try-on hauls, vlogs, tarot readings |
-| 5 | Neon rainy alley + club door | Night-out looks, concert and club content |
-| 6 | Misty forest manor ruin | Editorial shoots, witchy aesthetics, autumn content |
+| 1 | Bathroom | Mirror selfies, GRWM, makeup, skincare |
+| 2 | Bedroom | Lying-in-bed selfies, morning routine, casual chats |
+| 3 | Living room | Couch hangouts, movie night, casual lounging |
+| 4 | Kitchen | Coffee in the morning, cooking, "what I eat" |
+| 5 | Closet mirror corner | Outfit checks, try-on hauls |
+| 6 | Car | Car selfies, "on my way to…" |
 
 ## Prompts
 
-### 1. Victorian cemetery
+### 1. Bathroom
 ```
-Empty location plate, no people: old overgrown Victorian cemetery at dusk, weathered stone angel
-statues and leaning headstones covered in ivy and moss, wrought-iron gates, gravel path leading
-into soft fog, bare twisted trees, moody blue-purple twilight with a faint warm glow on the
-horizon, cinematic photorealistic photography, 35mm lens, shallow depth of field, room in the
-foreground for a person to stand, high detail, no text, no watermark
-```
-
-### 2. Gothic cathedral
-```
-Empty location plate, no people: interior of a grand Gothic cathedral, towering pointed stone
-arches, ribbed vaulted ceiling, tall stained-glass windows casting colored light beams through
-dusty air, rows of flickering candles, dark carved wooden pews, stone floor, dramatic chiaroscuro
-lighting, cinematic photorealistic photography, 24mm lens, open space in the center aisle for a
-person, high detail, no text, no watermark
+Amateur iPhone photo of a real small apartment bathroom, no people, taken from the doorway,
+white subway tile walls, slightly worn white vanity sink with a large plain mirror, bright
+overhead vanity light bulbs, black towel hanging on a hook, a few skincare bottles, black
+eyeliner, lipsticks and a hair straightener on the counter, small plant, bath mat slightly
+crooked, ordinary everyday lived-in look, natural indoor lighting, slight phone camera noise,
+realistic white balance, not staged, not cinematic, no text, no watermark
 ```
 
-### 3. Goth café
+### 2. Bedroom
 ```
-Empty location plate, no people: moody dark academia goth café interior, black painted walls,
-dark wood tables, velvet burgundy armchairs, dripping candles in brass holders, antique
-bookshelves, dried roses and small skulls as decor, vintage gilded mirror, warm dim candlelight
-with deep shadows, a steaming black coffee on a marble table by a rain-streaked window,
-cinematic photorealistic photography, 35mm lens, high detail, no text, no watermark
-```
-
-### 4. Goth bedroom
-```
-Empty location plate, no people: goth influencer bedroom, black walls, ornate black wrought-iron
-canopy bed with sheer black curtains and deep purple velvet bedding, vintage vanity table with
-ornate mirror, candles, crystals, tarot cards, dried flowers, fairy lights, gothic art prints,
-moody warm lamp light, cozy and aesthetic, cinematic photorealistic interior photography, 24mm
-lens, high detail, no text, no watermark
+Amateur iPhone photo of a real young woman's apartment bedroom, no people, daytime, window with
+sheer curtains letting in soft natural daylight, unmade bed with black and dark grey bedding and
+a few pillows, fairy lights on the wall, a couple of band posters, small nightstand with a candle
+and a phone charger, clothes draped over a chair, full-length mirror leaning on the wall, beige
+carpet, ordinary lived-in slightly messy look, realistic colors, slight phone camera noise, not
+staged, not cinematic, no text, no watermark
 ```
 
-### 5. Neon rainy alley
+### 3. Living room
 ```
-Empty location plate, no people: rainy city back alley at night, wet cobblestones reflecting red
-and violet neon signs, brick walls with posters, fire escape, puddles, light fog and rain, small
-alternative music club entrance with a glowing red door, cinematic photorealistic night
-photography, 35mm lens, moody grunge atmosphere, space in the foreground for a person, high
-detail, no readable text, no watermark
+Amateur iPhone photo of a real apartment living room, no people, afternoon, grey fabric couch
+with a black throw blanket and cushions, simple wooden coffee table with a mug, remote and a few
+books, TV on a low stand, houseplants, rug, window light, a few framed prints on the wall,
+ordinary everyday lived-in look, realistic colors and white balance, slight phone camera noise,
+not staged, not cinematic, no text, no watermark
 ```
 
-### 6. Misty forest manor ruin
+### 4. Kitchen
 ```
-Empty location plate, no people: dark misty forest with an abandoned gothic stone manor ruin,
-crumbling arched windows, ivy-covered walls, fallen leaves, fog rolling between tall black tree
-trunks, cold desaturated green-grey tones with soft overcast light, cinematic photorealistic
-photography, 35mm lens, clear path in the foreground for a person to stand, high detail, no
-text, no watermark
+Amateur iPhone photo of a real small apartment kitchen, no people, morning daylight from a
+window, white cabinets, laminate countertop with a coffee maker, a black mug, fruit bowl,
+cutting board and a few dishes in the sink, fridge with magnets and notes, tiled backsplash,
+ordinary everyday lived-in look, realistic colors, slight phone camera noise, not staged, not
+cinematic, no text, no watermark
+```
+
+### 5. Closet mirror corner
+```
+Amateur iPhone photo of a real bedroom corner used for mirror selfies, no people, full-length
+mirror on a closet door, open closet with mostly black clothes on hangers, boots and platform
+shoes on the floor, a small vanity with makeup, ring light off in the corner, overhead ceiling
+light on, ordinary apartment with beige walls, realistic colors, slight phone camera noise,
+lived-in look, not staged, not cinematic, no text, no watermark
+```
+
+### 6. Car
+```
+Amateur iPhone photo from the driver's seat of a real ordinary car interior, no people, parked
+on a normal suburban street during the day, black fabric seats, steering wheel, dashboard, phone
+mount, small air freshener hanging from the rearview mirror, natural daylight through the
+windshield, realistic colors, slight phone camera noise, everyday casual look, not staged, not
+cinematic, no text, no watermark
 ```
 
 ## Putting Lola in a location
 
 Pass two references: Lola's HQ character sheet (identity) + the location plate (scene):
 ```
-Photo of Lola, the same woman from the character reference, [pose/action] in the location from
-the scene reference, matching lighting and color grade, candid influencer smartphone photo,
-photorealistic, fully clothed
+Amateur iPhone photo of Lola, the same woman from the character reference, [pose/action] in the
+room from the scene reference, same lighting, casual candid influencer post, realistic skin
+texture, slight phone camera noise, not cinematic, fully clothed
 ```
